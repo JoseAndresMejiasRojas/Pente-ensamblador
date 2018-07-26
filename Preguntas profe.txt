@@ -1,0 +1,11 @@
+¿Cómo moverme entre páginas?  AL = 0, página AL = 1, página
+
+¿Dimensiones más grandes de la consola? Mi tablero utiliza mucho espacio.  Es recomendable no hacerlo, NO
+
+¿Cómo escribir, en un solo string, texto que incluya saltos de línea? Ejemplo: string DB "Jose Andres \n Mejias Rojas", "$"
+No se puede, me toca cambiar de línea con la memoria de video.
+
+¿El valor para el blanco? Tantear, son 16 valores posibles.
+
+¿Cómo declaro una matriz de forma que dependa de una variable?
+No es posible, necesito declarar el máximo tamaño posible y solo maneja de acuerdo a lo que el usuario diga.
